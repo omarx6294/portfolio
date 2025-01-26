@@ -274,7 +274,7 @@ h6 {
 #hero {
   width: 110%;
   height: 100vh;
-  background: url("C:\Users\sr093\Downloads\MyResume\assets\img\my_photo.jpg") top right no-repeat;
+  background: url("../img/my_photo.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
